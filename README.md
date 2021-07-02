@@ -1,2 +1,1 @@
-# givesawaysbot.github.io
-A discord bot
+# disgiveawaybot.github.io
